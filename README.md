@@ -16,4 +16,7 @@ Conversational "User: I feel like giving up. GPT-2: Here's a quote for you:"
 #### Education never ends, Watson. It is a series of lessons, with the greatest for the last.
 reference_url : "https://www.goodreads.com/quotes/349646-education-never-ends-watson-it-is-a-series-of-lessons"
 
+## BERTScore output table
+in Results Table csv file 
+
 
